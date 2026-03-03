@@ -31,3 +31,19 @@ The goal is to perform exploratory data analysis (EDA) and prepare a clean datas
 ```bash
 python src/cleaning.py
 ```
+
+## Milestone 2 (Week 3-4): Exploratory Analysis + Feature Engineering
+
+### Scope
+- Growth over time: visualize year-by-year content additions
+- Distribution analysis: genres and ratings split by Movies vs TV Shows
+- Country-level contribution: identify top content-producing countries
+- Feature engineering: duration categories and original vs licensed content
+
+### Run Feature Engineering
+```bash
+python src/feature_engineering.py
+```
+
+### Milestone 2 Notebook
+- `notebooks/02_milestone2_analysis.ipynb`
