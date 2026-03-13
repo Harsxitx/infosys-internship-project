@@ -1,0 +1,3 @@
+cluster,titles,movie_share,avg_duration,avg_release_year,avg_years_to_platform,top_genres,top_rating
+1,6115,1.0,99.73867538838921,2013.1177432542927,5.736385936222404,"International Movies (45%), Dramas (40%), Comedies (27%)",TV-MA
+0,2692,0.005943536404160475,1.9665676077265972,2016.5936106983656,2.151560178306092,"International TV Shows (50%), TV Dramas (28%), TV Comedies (22%)",TV-MA

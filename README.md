@@ -47,3 +47,24 @@ python src/feature_engineering.py
 
 ### Milestone 2 Notebook
 - `notebooks/02_milestone2_analysis.ipynb`
+
+## Milestone 3 (Week 5-6): Modeling & Advanced Analysis
+
+### Scope
+- Cluster Netflix titles using genre, rating, and duration signals
+- Classify content type (`Movie` vs `TV Show`) using engineered features
+- Analyze key drivers of content availability across top countries and genres
+- Interpret model behavior with feature-importance methods
+
+### Run Milestone 3 Modeling Pipeline
+```bash
+python src/modeling.py
+```
+
+### Generate Milestone 3 Notebook
+```bash
+python src/generate_milestone3_notebook.py
+```
+
+### Milestone 3 Notebook
+- `notebooks/03_milestone3_modeling.ipynb`

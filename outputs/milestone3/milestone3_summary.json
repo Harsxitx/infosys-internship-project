@@ -1,0 +1,22 @@
+{
+  "best_cluster_count": 2,
+  "best_silhouette_score": 0.18228250264654214,
+  "type_classification_accuracy": 1.0,
+  "type_classification_weighted_f1": 1.0,
+  "country_driver_labels": [
+    "United States",
+    "India",
+    "Japan",
+    "United Kingdom",
+    "Canada",
+    "France"
+  ],
+  "genre_driver_labels": [
+    "International Movies",
+    "International TV Shows",
+    "Dramas",
+    "Documentaries",
+    "Comedies",
+    "Action & Adventure"
+  ]
+}
