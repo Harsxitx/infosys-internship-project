@@ -68,3 +68,24 @@ python src/generate_milestone3_notebook.py
 
 ### Milestone 3 Notebook
 - `notebooks/03_milestone3_modeling.ipynb`
+
+## Milestone 4 (Week 7-8): Interactive Dashboard
+
+### Scope
+- Build an interactive Streamlit dashboard using the cleaned Netflix dataset
+- Add sidebar filters for release year, genre, country, and content type
+- Surface key insights such as top genres by year, country-level content distribution, and rating analysis
+- Finalize dashboard testing and prepare it for deployment
+
+### Run the Dashboard
+```bash
+streamlit run app.py
+```
+
+### Dashboard Features
+- KPI cards for total titles, movies, TV shows, and median release year
+- Year-over-year release trend and content-type mix
+- Top genre per release year
+- Country-wise content distribution
+- Rating distribution and rating analysis by content type
+- CSV download for the filtered dataset
